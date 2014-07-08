@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myCourrier;
+    src: local(LiberationMono);
+/*
+url(sansation_light.woff);
+*/
+}
+.courrier p {
+		/*
+		font-family: "LiberationMono";
+		*/
+		font-family: myCourrier;
+		font-size: 20%;
+}
